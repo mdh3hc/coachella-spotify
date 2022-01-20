@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-coachellaspotify-dev-24556-authRole",
+      "UnauthRoleArn": "arn:aws:iam::581682518945:role/amplify-coachellaspotify-dev-24556-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::581682518945:role/amplify-coachellaspotify-dev-24556-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-coachellaspotify-dev-24556-deployment",
+      "UnauthRoleName": "amplify-coachellaspotify-dev-24556-unauthRole",
+      "StackName": "amplify-coachellaspotify-dev-24556",
+      "StackId": "arn:aws:cloudformation:us-east-1:581682518945:stack/amplify-coachellaspotify-dev-24556/01edc280-79c5-11ec-8021-0e6c55b6e46f",
+      "AmplifyAppId": "dthhcpvoidxv8"
+    }
+  }
+}
